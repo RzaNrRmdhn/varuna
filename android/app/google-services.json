@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844885772166",
+    "project_id": "varuna-ppl",
+    "storage_bucket": "varuna-ppl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844885772166:android:cec135e3e42bd5bd17ce07",
+        "android_client_info": {
+          "package_name": "com.example.varuna"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844885772166-1unbh4l2k38s0diql6f7tf5svo4egsht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjBzWf2juQLeoFGsPwqS7Z8nh9oIHXFXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844885772166-1unbh4l2k38s0diql6f7tf5svo4egsht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
